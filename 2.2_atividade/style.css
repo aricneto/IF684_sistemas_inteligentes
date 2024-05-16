@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 16px;
+  background-color: #1c1c1c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+canvas {
+  display: block;
+}
